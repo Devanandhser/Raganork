@@ -7,7 +7,7 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fdevanandhser%2FRaganork&template=https%3A%2F%2Fgithub.com%2Fbot-repo%2Fdeployer-4.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDevanandhser%2FRaganork&template=https%3A%2F%2Fgithub.com%2Fbot-repo%2Fdeployer-4.git)
      
 
 ## <u> JOIN SUPPORT GROUP <u>
